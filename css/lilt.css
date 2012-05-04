@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+}
+
+div#timeline-top, div#timeline-bottom {
+	width: 500px;
+	margin: 0 auto;
+	background: #CCC;
+}
+
+div#timeline-bottom {
+	height: 500px;
+	position: relative;
+}
+
+div.timeline {
+	width: 500px;
+	height: 50px;
+	background: #F0F0F0;
+	opacity: 0.9;
+}
+
+div#time-start {
+	background: #999;
+	height: 30px;
+}
